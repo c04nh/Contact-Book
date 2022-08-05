@@ -8,3 +8,9 @@
 - express
 - fs
 - mysql
+
+폴더 구조
+- public/css (contact.css, edit.css, insert.css, list.css)
+- routes (contact-route.js)
+- views (contact.ejs, edit.ejs, insert.ejs, list.ejs)
+- index.js
